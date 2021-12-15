@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **BI**, **Data Engineering**, **BIG DATA** but I really miss programming more
 - 🌱 I’m currently learning **Python**, **Flask**, **Angular**, **TypeScript**, **Web Applications Architecture**
-- 💭 I’m thinking about a topic I could investigate for my **Computers Science Thesis Degree**
+- 💭 I’m thinking about a topic I could investigate for my **Bachelor's Degree In Computer Science Thesis**
 - 📫 How to reach me: https://www.linkedin.com/in/alerodriguez
 - ⚡ Fun fact: I'm very interested in **IoT**. And pointing about some other interests I'm into: micro-story writing, inline skating, traditional arabic belly dance, learn italian and genealogy investigation among other things.
 <p>
