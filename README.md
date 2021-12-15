@@ -7,11 +7,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-- 🔭 I’m currently working on *BI*, *Data Engineering*, *BIG DATA* but I really miss programming more
-- 🌱 I’m currently learning *Python*, *Flask*, *Angular*, *TypeScript*, *Web Applications Architecture*
-- :thought_balloon: I’m thinking about a topic I could investigate for my Computers Science Thesis Degree
+- 🔭 I’m currently working on **BI**, **Data Engineering**, **BIG DATA** but I really miss programming more
+- 🌱 I’m currently learning **Python**, **Flask**, **Angular**, **TypeScript**, **Web Applications Architecture**
+- :thought_balloon: I’m thinking about a topic I could investigate for my **Computers Science Thesis Degree**
 - 📫 How to reach me: https://www.linkedin.com/in/alerodriguez
-- ⚡ Fun fact: I'm very interested in IoT. And like some hobbies I'm into micro-story writing, inline skating, traditional arabic belly dance, learning italian, geanology among other things.
+- ⚡ Fun fact: I'm very interested in **IoT**. And like some hobbies I'm into micro-story writing, inline skating, traditional arabic belly dance, learning italian, geanology among other things.
+<p>
+  
+</p>
+
+There are some technologies I worked with or learned:
+
 
 <a href="https://www.oracle.com/java" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/database/technologies/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" width="40" height="40"/> </a> 
@@ -32,6 +38,7 @@ Here are some ideas to get you started:
 <a href="https://archive.org/details/cprogramminglang00stro_0" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/> </a> 
 <a href="https://www.haskell.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg" alt="Haskell" width="40" height="40"/> </a> 
 <a href="https://swish.swi-prolog.org/p/Tutorial%20de%20prolog.swinb" target="_blank"> <img src="https://avatars2.githubusercontent.com/u/6884283?v=3&s=200" alt="Prolog" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" width="40" height="40"/> </a> 
 
 <!--
 <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a> 
