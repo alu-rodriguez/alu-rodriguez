@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Python**, **Flask**, **Angular**, **TypeScript**, **Web Applications Architecture**
 - 💭 I’m thinking about a topic I could investigate for my **Computers Science Thesis Degree**
 - 📫 How to reach me: https://www.linkedin.com/in/alerodriguez
-- ⚡ Fun fact: I'm very interested in **IoT**. And like some hobbies I'm into micro-story writing, inline skating, traditional arabic belly dance, learning italian and genealogy among other things.
+- ⚡ Fun fact: I'm very interested in **IoT**. And pointing about some other interests I'm into: micro-story writing, inline skating, traditional arabic belly dance, learn italian and genealogy investigation among other things.
 <p>
   
 </p>
