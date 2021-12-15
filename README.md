@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   
 </p>
 
-There are some technologies I've worked with or learned:
+### 👇 There are some technologies I've worked with or learned:
 
 
 <a href="https://www.oracle.com/java" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> 
@@ -44,6 +44,6 @@ There are some technologies I've worked with or learned:
 <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a> 
 -->
 
-Oh! And some stats from github, too! 😛
+### 🔦 Oh! And some stats from github, too!
 
 ![Alejandra Rodríguez's GitHub stats](https://github-readme-stats.vercel.app/api?username=alu-rodriguez&show_icons=true&theme=chartreuse-dark)
