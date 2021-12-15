@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <a href="https://www.haskell.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg" alt="Haskell" width="40" height="40"/> </a> 
 <a href="https://www.swi-prolog.org/" target="_blank"> <img src="https://avatars2.githubusercontent.com/u/6884283?v=3&s=200" alt="Prolog" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" width="40" height="40"/> </a> 
+<a href="https://www.r-project.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> </a> 
 
 <!--
 <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a> 
