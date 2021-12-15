@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <a href="https://www.oracle.com/java/technologies/javaserverfaces.html" target="_blank"> <img src="https://consejotecnologico.com/wp-content/uploads/2019/02/jsf.jpg" alt="JSF" width="40" height="40"/> </a> 
 <a href="https://archive.org/details/cprogramminglang00stro_0" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/> </a> 
 <a href="https://www.haskell.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg" alt="Haskell" width="40" height="40"/> </a> 
-<a href="https://swish.swi-prolog.org/p/Tutorial%20de%20prolog.swinb" target="_blank"> <img src="https://avatars2.githubusercontent.com/u/6884283?v=3&s=200" alt="Prolog" width="40" height="40"/> </a> 
+<a href="https://www.swi-prolog.org/" target="_blank"> <img src="https://avatars2.githubusercontent.com/u/6884283?v=3&s=200" alt="Prolog" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" width="40" height="40"/> </a> 
 
 <!--
