@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on *BI*, *Data Engineering*, *BIG DATA* but I really miss programming more
+- 🌱 I’m currently learning *Python*, *Flask*, *Angular*, *TypeScript*, *Web Applications Architecture*
+- :thought_balloon: I’m thinking about a topic I could ivestigate for my Computers Science Thesis Degree
+- 📫 How to reach me: https://www.linkedin.com/in/alerodriguez
+- ⚡ Fun fact: I'm very interested into IoT. And like some hobbies I'm on micro-story writing, inline skating, traditional arabic belly dance, learning italian, investigatin geanology among other things.
