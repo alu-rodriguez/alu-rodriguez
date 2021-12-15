@@ -1,4 +1,4 @@
-### 👋 Hey folks! 
+### 👋 Hey folks! Here is Alejandra Rodríguez from Argentina, but in general people call me Ale or Alu.
 <!--
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
@@ -9,14 +9,14 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **BI**, **Data Engineering**, **BIG DATA** but I really miss programming more
 - 🌱 I’m currently learning **Python**, **Flask**, **Angular**, **TypeScript**, **Web Applications Architecture**
-- :thought_balloon: I’m thinking about a topic I could investigate for my **Computers Science Thesis Degree**
+- 💭 I’m thinking about a topic I could investigate for my **Computers Science Thesis Degree**
 - 📫 How to reach me: https://www.linkedin.com/in/alerodriguez
-- ⚡ Fun fact: I'm very interested in **IoT**. And like some hobbies I'm into micro-story writing, inline skating, traditional arabic belly dance, learning italian, geanology among other things.
+- ⚡ Fun fact: I'm very interested in **IoT**. And like some hobbies I'm into micro-story writing, inline skating, traditional arabic belly dance, learning italian and genealogy among other things.
 <p>
   
 </p>
 
-There are some technologies I worked with or learned:
+There are some technologies I've worked with or learned:
 
 
 <a href="https://www.oracle.com/java" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> 
@@ -44,3 +44,6 @@ There are some technologies I worked with or learned:
 <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a> 
 -->
 
+Oh! And some stats from github, too! 😛
+
+![Alejandra Rodríguez's GitHub stats](https://github-readme-stats.vercel.app/api?username=alu-rodriguez&show_icons=true&theme=chartreuse-dark)
